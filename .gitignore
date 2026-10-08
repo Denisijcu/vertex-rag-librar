@@ -1,5 +1,7 @@
 # Entornos virtuales
 venv/
+.venv/
+venv_CORRUPTO/
 env/
 __pycache__/
 *.pyc
