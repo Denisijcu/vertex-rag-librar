@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Base de datos vectorial y temporales
+chroma_db/
+generated_charts/
+vertex_dashboards/
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
